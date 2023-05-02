@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# big files to ignore
+/maps/bouwgrondoppervlakte.html
+/maps/gemiddeldeverkoopprijs.html
+
 # C extensions
 *.so
 
